@@ -75,6 +75,7 @@ function App() {
       spread: 60,
       origin: { y: 0.7 },
       colors: ['#FF80A0', '#9D65FE', '#4A90E2', '#32B38F', '#FFF2C6'],
+      zIndex: 9999,
     });
   };
 
